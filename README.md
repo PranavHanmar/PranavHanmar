@@ -2,33 +2,14 @@
 
 ## 💻 Full-Stack Developer | Professional Editor
 
-A passionate coder and professional editor with a strong interest in hackathons and tech events. I love building innovative software solutions and contributing to the tech community.
-
 ---
 
 ## 🎯 About Me
 
-- 🔧 **Skilled Developer**: I work with modern web technologies and full-stack development
 - ✏️ **Professional Editor**: Experienced in technical writing and content editing
 - 🚀 **Tech Enthusiast**: Passionate about hackathons and technological innovation
 - 🎓 **Continuous Learner**: Always exploring new technologies and best practices
 - 💡 **Problem Solver**: Enthusiastic about tackling complex challenges
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-- JavaScript | Python | C | HTML | CSS
-
-### Frontend
-- React.js | Bootstrap | Responsive Design
-
-### Backend
-- Node.js | Express.js | Database Design
-
-### Tools & Platforms
-- Git & GitHub | VS Code | Figma
 
 ---
 
